@@ -1,2 +1,4 @@
 # Groundwater-potential-zones
-this is a web map showing GWPZs in Kisumu county
+This is a web map showing GWPZs in Kisumu county
+
+made by me!  (susan)
